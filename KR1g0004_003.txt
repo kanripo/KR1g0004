@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 公是先生七經小傳
-#+DATE: 2015-09-23 09:40:59
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-11 23:42:44.674475
+#+PROPERTY: ID KR1g0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0577-003公是先生七經小傳-下.
 <pb:KR1g0004_SBCK_003-1a>¶
 公是先生七經小傳卷下¶
 　　　論語¶
@@ -447,4 +451,3 @@
 ¶
 公是先生七經小傳卷下¶
 　　唐寅蔵¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 公是先生七經小傳
-#+DATE: 2015-09-23 09:40:59
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-11 23:42:44.533010
+#+PROPERTY: ID KR1g0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0577-001公是先生七經小傳-上.
 <pb:KR1g0004_SBCK_001-1a>¶
 公是先生七經小傳卷上¶
 　　尚書¶
@@ -437,4 +441,3 @@
 秕小大戰戰罔不懼于非辜者此也¶
 公是先生七經小傳卷上¶
 <pb:KR1g0004_SBCK_001-19b>¶
-

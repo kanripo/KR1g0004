@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 公是先生七經小傳
-#+DATE: 2015-09-23 09:40:59
-#+PROPERTY: JUAN 1
+#+DATE: 2015-09-11 23:42:44.610139
+#+PROPERTY: ID KR1g0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB05n0577-002公是先生七經小傳-中.
 <pb:KR1g0004_SBCK_002-1a>¶
 公是先生七經小傳卷中¶
 　　周禮¶
@@ -543,4 +547,3 @@
 <pb:KR1g0004_SBCK_002-23b>¶
 者毀廟之有功德者祫則亦及之故云報也¶
 公是先生七經小傳卷中¶
-
